@@ -90,7 +90,7 @@
 }
 .ins-dear {
     width: fit-content;
-    margin: auto auto 1vw 2.5vw;
+    margin: auto;
     padding: 1vw;
     box-sizing: border-box;
     background: #c4a69b;
