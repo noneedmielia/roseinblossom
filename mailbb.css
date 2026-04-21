@@ -1,0 +1,104 @@
+@import url('https://fonts.cdnfonts.com/css/enchanted-hermion-script');
+@import url('https://fonts.googleapis.com/css2?family=Trirong:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+:root {
+--pic: url(https://i.pinimg.com/736x/ea/9b/f8/ea9bf8720f295a66d1994f2e553930f5.jpg) center/cover;
+--pic2: url(https://i.pinimg.com/736x/a3/bc/67/a3bc67745fec2374a6d0c19acba68208.jpg) center/cover;
+--pic3: url(https://i.pinimg.com/736x/79/f7/65/79f765a6ab90e3c570b1ab016c4c4e77.jpg) center/cover;
+}
+
+.paper {
+	width: auto;
+    margin: auto;
+    background: #000;
+    border: 1px solid;
+    border-color: white;
+    box-sizing: border-box;
+    padding: 1vw;
+}
+.flx {
+    width: 60%;
+    margin: 2vw auto auto auto;
+    display: flex;
+    justify-content: space-between;
+    gap: 0.5vw;
+    position: relative;
+}
+.pic {
+	width: 30%;
+    margin: auto;
+    aspect-ratio: 1 / 1;
+    padding: 1.5vw;
+    background: var(--pic);
+}
+.pic2 {
+	width: 30%;
+    margin: auto;
+    aspect-ratio: 1 / 1;
+    padding: 1.5vw;
+    background: var(--pic2);
+}
+.pic3 {
+	width: 30%;
+    margin: auto;
+    aspect-ratio: 1 / 1;
+    padding: 1.5vw;
+    background: var(--pic3);
+}
+.rxne {
+	width: auto;
+    margin: -8.5vw auto -2vw auto;
+    position: relative;
+    z-index: 1;
+    color: white;
+    text-align: center;
+    font: 7vw Enchanted Hermion Script;
+    font-weight: 500;
+    color: #f3d5cf;
+}
+.dear {
+    width: fit-content;
+    margin: 0vw auto auto 2.5vw;
+    padding: 1vw;
+    box-sizing: border-box;
+    background: #c4a69b;
+    font: 16px Trirong;
+    font-weight: 500;
+    text-align: center;
+    color: black;
+}
+.txt {
+    width: 70%;
+    margin: 1.5vw auto;
+    font: 16px Sarabun;
+    line-height: 1.6;
+    color: white;
+}
+.frm {
+    width: 70%;
+    margin: auto;
+    border: 0.5px solid;
+    padding: 1vw;
+}
+.ins-dear {
+    width: fit-content;
+    margin: auto 2.5vw 2vw auto;
+    padding: 1vw;
+    box-sizing: border-box;
+    background: #c4a69b;
+    font: 16px Trirong;
+    font-weight: 500;
+    text-align: center;
+    color: black;
+}
+.rxne2 {
+    width: fit-content;
+    margin: auto 2.5vw 2vw auto;
+    padding: 1vw;
+    box-sizing: border-box;
+    background: #c4a69b;
+    font: 16px Trirong;
+    font-weight: 500;
+    text-align: center;
+    color: black;
+}
