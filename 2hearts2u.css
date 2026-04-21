@@ -56,12 +56,6 @@
     font-weight: 500;
     color: #f3d5cf;
 }
-.msge {
-    width: 70%;
-    margin: auto;
-    border: 0.5px solid;
-    padding: 1vw;
-}
 .dear {
     width: fit-content;
     margin: 0vw auto auto 2.5vw;
@@ -85,6 +79,7 @@
     margin: auto;
     border: 0.5px solid;
     padding: 1vw;
+	border-color: white;
 }
 .ins-dear {
     width: fit-content;
