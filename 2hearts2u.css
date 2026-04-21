@@ -80,13 +80,12 @@
     font: 16px Sarabun;
     line-height: 1.6;
     color: white;
-	padding: 1vw;
 }
 .frm {
     width: 70%;
     margin: auto;
     border: 1px solid;
-    padding: 1vw;
+    padding: 1.7vw;
 	border-color: #fff;
 }
 .ins-dear {
