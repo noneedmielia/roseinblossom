@@ -77,9 +77,9 @@
 .frm {
     width: 70%;
     margin: auto;
-    border: 0.5px solid;
+    border: 1px solid;
     padding: 1vw;
-	border-color: white;
+	border-color: #fff;
 }
 .ins-dear {
     width: fit-content;
